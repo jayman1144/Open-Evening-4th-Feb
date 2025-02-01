@@ -1,0 +1,1 @@
+# Clear the win message when spinning
