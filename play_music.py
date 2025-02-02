@@ -12,6 +12,6 @@ def background_music_loop(path, delay):
         time.sleep(check_length.get_length() + delay)
 
 
-
-background_music_loop('music/luigi_casino.mp3', 2)
+# This is just test code
+# background_music_loop('music/luigi_casino.mp3', 2)
 
